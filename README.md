@@ -2,7 +2,6 @@
 
 This repository contains code and detailed instructions to help reproduce the experiment results of our EBCDet paper. 
 
-EBCDet builds on our previous work SimROD (ICCV 2021 Oral paper, see [here](README_simrod.md) & [here](https://github.com/abanitalebi/simrod)).
 
 
 ## Development Environment
